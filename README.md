@@ -10,4 +10,5 @@
 | 03 | Embedded | [Link](./03_Embedded.md) |
 | 04 | SemiConductor | [Link](./04_SemiConductor.md) |
 | 05 | Web | [Link](./05_Web.md) |
-| 06 |  | [Link]() |
+| 06 | Certificate | [Link](./06_Certificate.md) |
+| 07 |  | [Link]() |
