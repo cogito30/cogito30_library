@@ -12,8 +12,9 @@
 | 06 | 해커스 토익 LC Listening(리스닝) 기본서 | David Cho  | 해커스어학연구소 | [교보문고](https://product.kyobobook.co.kr/detail/S000200406673) |
 | 07 | 2025 이기적 리눅스마스터 1급(1,2차) | 김윤수 | 영진닷컴 | [교보문고](https://product.kyobobook.co.kr/detail/S000214883324) |
 | 08 | 2025 이기적 ITQ OA Master 한글 ver.2020+엑셀/파워포인트 ver.2021 올인원 | 영진정보연구소 | 영진닷컴 | [교보문고](https://product.kyobobook.co.kr/detail/S000214086984) |
-| 09 |  |  |  | [교보문고]() |
-| 10 |  |  |  | [교보문고]() |
+| 09 | 2026 공인중개사 기초입문서 1차 | 신관식외 1 인 | 해커스 | [교보문고](https://product.kyobobook.co.kr/detail/S000217422172) |
+| 10 | 2026 공인중개사 기초입문서 2차 | 한민우 외 3인 | 해커스 | [교보문고](https://product.kyobobook.co.kr/detail/S000217422185) |
+
 
 | No | Title | Author | Publisher | Link | 
 | :--: | :--: | :--: | :--: | :--: | 
