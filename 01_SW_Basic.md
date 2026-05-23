@@ -3,22 +3,22 @@
 | No | Title | Author | Publisher | Link | 
 | :--: | :--: | :--: | :--: | :--: | 
 | 01 | 열혈 C 프로그래밍 | 윤성우 | 오렌지미디어 | [교보문고](https://product.kyobobook.co.kr/detail/S000001589148) |  
-| 02 | 기초가 튼튼해지는 C 프로그래밍 | 최종필 외 5인 | 학산미디어 | [교보문고]() |  
-| 03 | 뇌를 자극하는 C++ 프로그래밍 | 이현창 | 한빛미디어 | [교보문고]() |  
-| 04 | Effective C++ | 스콧 마이어스 | 프로텍 미디어 | [교보문고]() |  
-| 05 | 이것이 자바다 | 신용권 | 한빛미디어 | [교보문고]() |   
-| 06 | 이것이 C#이다 | 박상현 | 한빛미디어 | [교보문고]() |   
+| 02 | 기초가 튼튼해지는 C 프로그래밍 | E. Balagurusamy | 학산미디어 | [교보문고](https://product.kyobobook.co.kr/detail/S000001865412) |  
+| 03 | 뇌를 자극하는 C++ 프로그래밍 | 이현창 | 한빛미디어 | [교보문고](https://product.kyobobook.co.kr/detail/S000001223355) |  
+| 04 | Effective C++ | 스콧 마이어스 | 프로텍 미디어 | [교보문고](https://product.kyobobook.co.kr/detail/S000001962302) |  
+| 05 | 이것이 자바다 | 신용권 | 한빛미디어 | [교보문고](https://product.kyobobook.co.kr/detail/S000212853100) |   
+| 06 | 이것이 C#이다 | 박상현 | 한빛미디어 | [교보문고](https://product.kyobobook.co.kr/detail/S000201856223) |   
 
 
 | No | Title | Author | Publisher | Link | 
 | :--: | :--: | :--: | :--: | :--: | 
-| 07 | 이것이 자료구조+알고리즘이다 with C언어 | 박상현 | 한빛미디어 | [교보문고]() |   
-| 08 | 코딩 테스트를 위한 자료구조와 알고리즘 with C++ | 존 캐리 외 2인 | 길벗 | [교보문고]() |   
-| 09 | 프로그래밍 대회에서 배우는 알고리즘 문제 해결 전략 세트(2권) | 구종만 | 인사이트 | [교보문고]() |   
-| 10 | 컴퓨터 비전 | 오일석 | 한빛아카데미 | [교보문고]() |   
-| 11 | Game Programming in C++ | 산자이 마드하브 | 에이콘 | [교보문고]() |  
-| 12 | 러닝! OpenCV3 | 개리 브래드스키 외 1인 | 위키북스 | [교보문고]() |  
-| 13 | OpenCV 4로 배우는 컴퓨터 비전과 머신 러닝 | 환선규 | 길벗 | [교보문고]() |  
+| 07 | 이것이 자료구조+알고리즘이다 with C언어 | 박상현 | 한빛미디어 | [교보문고](https://product.kyobobook.co.kr/detail/S000061585515) |   
+| 08 | 코딩 테스트를 위한 자료구조와 알고리즘 with C++ | 존 캐리 외 2인 | 길벗 | [교보문고](https://product.kyobobook.co.kr/detail/S000001834528) |   
+| 09 | 프로그래밍 대회에서 배우는 알고리즘 문제 해결 전략 세트(2권) | 구종만 | 인사이트 | [교보문고](https://product.kyobobook.co.kr/detail/S000001032946) |   
+| 10 | 컴퓨터 비전 | 오일석 | 한빛아카데미 | [교보문고](https://product.kyobobook.co.kr/detail/S000001743418) |   
+| 11 | Game Programming in C++ | 산자이 마드하브 | 에이콘 | [교보문고](https://product.kyobobook.co.kr/detail/S000001804867) |  
+| 12 | 러닝! OpenCV3 | 개리 브래드스키 외 1인 | 위키북스 | [교보문고](https://product.kyobobook.co.kr/detail/S000001766326) |  
+| 13 | OpenCV 4로 배우는 컴퓨터 비전과 머신 러닝 | 환선규 | 길벗 | [교보문고](https://product.kyobobook.co.kr/detail/S000001792829) |  
 | 14 |  |  |  |  |  
 | 15 |  |  |  |  |   
 | 16 |  |  |  |  |   
