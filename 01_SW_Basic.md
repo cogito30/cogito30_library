@@ -1,6 +1,6 @@
 # SW Basic
 
-[Home](../README.md)
+[Home](./README.md)
 
 | No | Title | Author | Publisher | Link | 
 | :--: | :--: | :--: | :--: | :--: | 
